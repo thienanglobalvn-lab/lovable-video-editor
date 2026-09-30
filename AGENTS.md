@@ -8,3 +8,7 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Project architecture
+
+- Keep the video workspace as a data-driven single-page dashboard so future tools, samples, and projects can be added through arrays without changing its layout structure.
